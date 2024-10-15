@@ -15,7 +15,7 @@ Atualmente tenho buscado por oportunidades em lugares dinâmicos e desafiadores,
  
 
   ## Tecnologias e Ferramentas
-  
+  Python, Power BI, Excel, 
 
 ## Estatística Github
 
