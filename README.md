@@ -1,7 +1,11 @@
 ## Olá a todos👋
 
 <div align="justify">
-  Sou Brunna Victória, Desenvolvedora Python Apaixonado pelo desenvolvimento de software, me capacito cada dia mais a fim de transformar a vida das pessoas por meio da tecnologia.
+  Olá, sou Brunna Victória. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e tenho direcionado meus estudos e experiências para me tornar uma Analista de Dados. 
+
+Nas minhas experiências tive oportunidade de trabalhar com Power BI, Excel e SQL. Durante meus estudos já tive experiências com Python, Django, SQL, Power BI, Pandas e desenvolvimento de dashboards. 
+
+Atualmente tenho buscado por oportunidades em lugares dinâmicos e desafiadores, pois acredito que são nestes lugares que existem as melhores chances de crescimento, além de poder contribuir com tudo que já aprendi até hoje.
  </div>
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
