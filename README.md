@@ -8,9 +8,6 @@ Nas minhas experiências tive oportunidade de trabalhar com Power BI, Excel e SQ
 Atualmente tenho buscado por oportunidades em lugares dinâmicos e desafiadores, pois acredito que são nestes lugares que existem as melhores chances de crescimento, além de poder contribuir com tudo que já aprendi até hoje.
  </div>
 
-## Algumas coisas que são indispensáveis na minha vida 🤔
-
-
 ## Minhas Redes Sociais
  <div> 
   <a href="https://instagram.com/_brunnav_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
