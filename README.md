@@ -22,7 +22,7 @@ Atualmente tenho buscado por oportunidades em lugares dinâmicos e desafiadores,
   
    <img align="center" alt="Tiago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
    
-    <img align="center" alt="Tiago-Js" height="30" width="40" https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000
+    <img align="center" alt="Tiago-Js" height="30" width="40" https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000 >
           
           
  </div>
